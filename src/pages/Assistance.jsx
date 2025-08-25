@@ -262,12 +262,6 @@ const Assistance = () => {
               <p>support@travelease.com</p>
               <span className="contact-hours">Response within 4 hours</span>
             </div>
-            <div className="contact-card">
-              <div className="contact-icon">💬</div>
-              <h3>Live Chat</h3>
-              <p>Available on website</p>
-              <span className="contact-hours">Business hours</span>
-            </div>
           </div>
         </div>
       </div>
